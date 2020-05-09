@@ -1,5 +1,13 @@
-# How-India-Censors-The-Web-Data
-List of potentially blocked websites used for probing in our Websci 2020 paper
+# How India Censors The Web -- Data
+
+A list of URLs potentially blocked by Indian Internet Service Providers.
+
+Please cite the following paper if you use this data it in your work.
+
+Kushagra Singh*, Gurshabad Grover*, and Varun Bansal.  
+2020. How India Censors the Web.  
+In 12th ACM Conference on Web Science (WebSci ’20), July 6–10, 2020, Southampton, United Kingdom. 
+https://doi.org/10.1145/3394231.3397891
 
 ## Data Curation and Filtering
 We compile the largest-known list of potentially blocked websites from various sources government orders, court orders, user reports, RTI by CIS, list of potentially blocked websites by OONI and miscellaneous.
