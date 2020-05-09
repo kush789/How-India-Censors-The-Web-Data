@@ -6,9 +6,8 @@ We compile the largest-known list of potentially blocked websites from various s
 
 ## Structure for repository is as follows:
 
-- dataset/
-  - potentially_blocked_urls.txt -> All the urls curated from the various sources
-  - potentially_blocked_websites.txt -> All the unique hostnames derived from the above list
+- potentially_blocked_urls.txt -> All the urls curated from the various sources
+- potentially_blocked_unique_hostnames.txt -> All the unique hostnames derived from the above list
   
 ## Sources:
 
