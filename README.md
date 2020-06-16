@@ -20,16 +20,17 @@ We compile the largest-known list of potentially blocked websites from various s
 ## Sources:
 
 - Court Orders
-  - https://sflc.in/rti-meity-provides-details-blocked-websitesurls
-  - https://sflc.in/sites/default/files/MeitY_blocked_websites/COMM_582_2017_.pdf
-  - https://cis-india.org/internet-governance/blog/analysing-blocked-sites-riots-communalism
-  - http://delhihighcourt.nic.in/dhcqrydisp_o.asp?pn=119642&yr=2014
+  - [RTI: MeitY provides details of Blocked Websites/URLs](https://sflc.in/rti-meity-provides-details-blocked-websitesurls) -- SFLC.in
+  - [COMM_582_2017_.pdf](https://sflc.in/sites/default/files/MeitY_blocked_websites/COMM_582_2017_.pdf) -- SLFC.in
+  - [Analysing Latest List of Blocked Sites (Communalism & Rioting Edition)](https://cis-india.org/internet-governance/blog/analysing-blocked-sites-riots-communalism) -- CIS India
+  - [Court Order](http://delhihighcourt.nic.in/dhcqrydisp_o.asp?pn=119642&yr=2014) -- Delhi High Court
 
 - Govt Orders
-  - https://www.thehindubusinessline.com/multimedia/archive/02496/DoT_Letter_3107201_2496720a.PDF
-  - https://twitter.com/pranesh/status/550196008416600064
+  - [DoT_Letter_3107201_2496720a.PDF](https://web.archive.org/web/20170629024816/https://www.thehindubusinessline.com/multimedia/archive/02496/DoT_Letter_3107201_2496720a.PDF) -- thehindubusinessline.com
+  - [List](https://twitter.com/pranesh/status/550196008416600064) by Twitter User @pranesh (Pranesh Prakash)
 
 - Misc
-  - https://docs.google.com/spreadsheets/d/1O5ToesR8HCcH6bmP_s7s5jN6YlYw4t4l-ovCpmY7xyc/edit#gid=1822363676
-  - https://cis-india.org/internet-governance/blog/rti-response-dit-blocking
-  - https://cis-india.org/internet-governance/dit-response-2nd-rti-blocking
+  - [User reports](https://docs.google.com/spreadsheets/d/1O5ToesR8HCcH6bmP_s7s5jN6YlYw4t4l-ovCpmY7xyc/edit#gid=1822363676) collected by Internet Freedom Foundation
+  - [DIT's Response to RTI on Website Blocking](https://cis-india.org/internet-governance/blog/rti-response-dit-blocking) -- CIS India
+  - [Text of DIT's Response to Second RTI on Website Blocking](https://cis-india.org/internet-governance/dit-response-2nd-rti-blocking) -- CIS India
+
