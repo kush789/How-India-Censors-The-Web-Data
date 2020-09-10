@@ -30,7 +30,7 @@ We compile the largest-known list of potentially blocked websites from various s
   - [List](https://twitter.com/pranesh/status/550196008416600064) by Twitter User @pranesh (Pranesh Prakash)
 
 - Misc
-  - [User reports](https://docs.google.com/spreadsheets/d/1O5ToesR8HCcH6bmP_s7s5jN6YlYw4t4l-ovCpmY7xyc/edit#gid=1822363676) collected by Internet Freedom Foundation (as of 15th December, 2020)
+  - [User reports](https://docs.google.com/spreadsheets/d/1O5ToesR8HCcH6bmP_s7s5jN6YlYw4t4l-ovCpmY7xyc/edit#gid=1822363676) collected by Internet Freedom Foundation (as of 15th December, 2019)
   - [DIT's Response to RTI on Website Blocking](https://cis-india.org/internet-governance/blog/rti-response-dit-blocking) -- CIS India
   - [Text of DIT's Response to Second RTI on Website Blocking](https://cis-india.org/internet-governance/dit-response-2nd-rti-blocking) -- CIS India
 
